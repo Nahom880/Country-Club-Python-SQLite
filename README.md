@@ -1,0 +1,6 @@
+In this case study, you'll use MySQL, PHPMyAdmin, Juptyer Notebook, and SQLite to tackle a series of challenges on a database containing information about a country club. For this case study, you'll see what a database looks like on a nice interface like PHPMyAdmin, and connect to a local instance of the database using Python and SQLite. Data scientists use these methodologies to do work on a daily basis. You'll retrieve particular pieces of information and translate requests into SQL queries. Make use of the DataCamp courses from the previous subunits to succeed in this case study!
+
+There are two difficulty tiers for this case study. The only difference between them is the amount of guidance we give in setting up the SQLite connection in Python. We always encourage students to challenge themselves, but it's also totally fine if you want more guidance while working on complex assignments like this one.
+
+Tier Two: If you feel confident tackling the challenge of exploring data from PHPMyAdmin and establishing a connection to a local SQLite database, pick Tier Two.
+Tier One: If you want some helpful pointers during that process, go for Tier One. The SQL queries will be the same for both tiers. In this project folder, you will also find two resources that will guide you through the setup of SQLite. 
